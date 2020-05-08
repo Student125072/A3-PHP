@@ -1,0 +1,17 @@
+PHP Object Oriented Programming(OOP)
+
+het verschil tussen:
+private, protected & public.
+
+public - de variabele of functie is vanuit overal beschikbaar, andere classes en onderdelen van een object.
+
+private - de variabele of functie is alleen beschikbaar in zijn eigen class.
+
+protected - protected variabelen en functies kunnen alleen gebruikt worden in de classes waar ze gedefinieerd worden.
+
+
+
+
+de reden waarom niet overal public gebruikt moet worden...
+
+- bij public is het mogelijk om van buitenaf properties te wijzigen of methods uit te voeren.

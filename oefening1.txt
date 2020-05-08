@@ -1,0 +1,6 @@
+==
+Het verschil tussen een klasse en een object
+==
+
+een klasse word gebruikt om alle eigenschappen aan een object te geven, objecten zijn
+de dingen die je maakt uit die klasse. 

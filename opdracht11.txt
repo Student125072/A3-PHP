@@ -1,0 +1,2 @@
+een static methode kan in een hele class gebruikt worden ipv alleen in de objecten die aangemaakt worden.
+static methodes kunnen alleen maar met andere static methodes en variabelen werken.

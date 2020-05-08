@@ -1,0 +1,7 @@
+3 correcte voorbeelden van extends:
+
+PHP extends programmeertaal -> PHP is een programmeertaal.
+Windows extends OS -> Windows is een OS.
+OS extends software -> een OS is een systeem software.
+
+Windows is een OS, maar niet elke OS is windows (Denk aan MAC etc.).
